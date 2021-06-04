@@ -1,0 +1,45 @@
+img {
+  height: 300px;
+  width: 300px;
+}
+
+.heading_style {
+  padding: 30px 0;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-size: 30px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  background-color: #fff;
+  color: #868686;
+  margin-bottom: 30px;
+}
+
+.card {
+  background-color: #fff;
+
+  border: 1px solid black;
+  float: left;
+  margin: 10px;
+  padding: 10px;
+  display: flexbox;
+  box-shadow: 30px;
+}
+.card_cat {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 20px;
+  text-align: center;
+  color: grey;
+  letter-spacing: 2px;
+  margin-left: 10px;
+}
+
+button {
+  background-color: #2e4053;
+  padding: 10px;
+  margin: 10px 10px;
+  border-radius: 20px;
+  color: white;
+  cursor: pointer;
+}
